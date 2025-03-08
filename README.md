@@ -1,4 +1,4 @@
-#**Foregrey Signature AI**
+# **Foregrey Signature AI**
 
 ### **Objective**  
 Foregrey Signature AI is an advanced signature forgery detection system that analyzes handwritten signatures to determine their authenticity. Using deep learning and computer vision, the model can accurately distinguish between genuine and forged signatures.
